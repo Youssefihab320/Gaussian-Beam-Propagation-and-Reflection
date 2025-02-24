@@ -8,7 +8,7 @@ This project simulates the propagation of a Gaussian beam using Fourier optics i
 ✅ Uses MATLAB/Octave for numerical computations  
 
 # Implementation Details
--Uses FFT2 and IFFT2 for beam propagation  
--Propagates the beam for distances 0.5𝑧,z,2z    
+-Uses FFT and IFFT for beam propagation  
+-Propagates the beam for distances 0.5𝑧, z, 2z    
 -Simulates wavefront transformation after reflection  
 -Outputs intensity distributions and cross-sectional plots  
